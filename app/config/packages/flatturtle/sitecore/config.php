@@ -40,7 +40,7 @@ return array(
 	|--------------------------------------------------------------------------
 	*/
 
-	'logo' => null,
+	'logo' => 'https://img.flatturtle.com/rentalvalue/logo/rentalvalue.png',
 
 
 	/*
@@ -91,7 +91,7 @@ return array(
 	|
 	*/
 
-	'analytics' => null,
+	'analytics' => 'UA-31282630-7',
 
 
 	/*
@@ -109,6 +109,9 @@ return array(
 	*/
 
 	'social' => array(
+		'twitter' 	=>	'https://twitter.com/rentalVALUE',
+		'linkedin'	=>	'https://www.linkedin.com/company/rentalvalue',
+		'pinterest' =>	'http://www.pinterest.com/rentalvalue',
 	)
 
 );
